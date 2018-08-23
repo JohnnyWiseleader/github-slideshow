@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Lil' Bunny Foo Foo
 Use the left arrow to go back!
